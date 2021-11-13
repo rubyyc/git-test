@@ -5,3 +5,4 @@ window.onload = function () {
     alert('这是测试代码')
   })
 }
+console.log('dev');
